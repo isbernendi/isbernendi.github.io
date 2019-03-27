@@ -7,7 +7,7 @@
       "title": "Mobirise 4",
       "styling": {
         "primaryColor": "#ffffff",
-        "secondaryColor": "#7f1933",
+        "secondaryColor": "#cc2952",
         "successColor": "#F7ED4A",
         "infoColor": "#82786E",
         "warningColor": "#879A9F",
@@ -422,7 +422,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "mks satu <a href=\"https://github.com/isbernendi/template/raw/master/mks%20satu.zip\">Download</a>",
                 "active": false
               },
               {
@@ -435,7 +435,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Elegan &nbsp;<a href=\"https://github.com/isbernendi/template/raw/master/elegan.zip\">Download</a>",
                 "active": false
               },
               {
@@ -577,7 +577,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Transparant &nbsp;<a href=\"https://github.com/isbernendi/template/raw/master/login%20transparant.zip\">Download</a>",
                 "active": false
               },
               {
@@ -590,7 +590,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "mks-user-pass &nbsp;<a href=\"https://github.com/isbernendi/template/raw/master/mks-user-pass.zip\">Download</a>",
                 "active": false
               },
               {
@@ -603,7 +603,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "mobile legends &nbsp;<a href=\"https://github.com/isbernendi/template/raw/master/mobile%20legends.zip\">Download</a>",
                 "active": false
               },
               {
@@ -611,13 +611,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/k-297x200.png",
-                "thumb": "@PROJECT_PATH@/assets/images/k-297x200-297x200.png",
+                "image": "@PROJECT_PATH@/assets/images/hotspo6mod-297x200.png",
+                "thumb": "@PROJECT_PATH@/assets/images/hotspo6mod-297x200-297x200.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
+                "caption": "hotspot6mod &nbsp;<a href=\"https://github.com/isbernendi/template/raw/master/hospot6mod.rar\">Download</a>",
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -669,7 +669,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }
