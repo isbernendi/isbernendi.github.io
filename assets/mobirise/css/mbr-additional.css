@@ -1449,86 +1449,6 @@ body {
   margin-top: 1rem;
   margin-bottom: 0;
 }
-.cid-rlOWYIiWc0 {
-  padding-top: 75px;
-  padding-bottom: 0px;
-  background-color: #0f7699;
-}
-.cid-rlOWYIiWc0 .mbr-section-subtitle {
-  color: #ffffff;
-  text-align: center;
-  font-weight: 300;
-}
-.cid-rlOWYIiWc0 .step {
-  width: 64px;
-  height: 64px;
-  font-size: 32px;
-  border-radius: 50%;
-  border: 2px solid #efefef;
-}
-@media (max-width: 767px) {
-  .cid-rlOWYIiWc0 .step {
-    width: 48px;
-    height: 48px;
-    font-size: 24px;
-  }
-}
-.cid-rlOWYIiWc0 .separline {
-  position: relative;
-}
-.cid-rlOWYIiWc0 .separline:after {
-  top: 68px;
-  left: 30px;
-  position: absolute;
-  content: "";
-  width: 2px;
-  height: calc(100% - (32px + 4px) * 2);
-  background-color: #efefef;
-}
-@media (max-width: 767px) {
-  .cid-rlOWYIiWc0 .separline:after {
-    top: 52px;
-    left: 22px;
-    height: calc(100% - 56px);
-  }
-}
-.cid-rlOWYIiWc0 .media-block {
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-@media (min-width: 992px) {
-  .cid-rlOWYIiWc0 .media-block {
-    padding-right: 2rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rlOWYIiWc0 .media-block {
-    flex-basis: 100%;
-    -webkit-flex-basis: 100%;
-    padding-bottom: 2rem;
-  }
-}
-.cid-rlOZjsqayN {
-  padding-top: 0px;
-  padding-bottom: 30px;
-  background-color: #0f7699;
-  background: linear-gradient(45deg, #0f7699, #0f7699);
-}
-@media (min-width: 992px) {
-  .cid-rlOZjsqayN .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rlOZjsqayN .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rlOZjsqayN .mbr-text {
-    text-align: center;
-  }
-}
 .cid-rlP1ZY2uCq {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -1652,19 +1572,6 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #000000, #073b4c) !important;
-}
-.cid-rlP0FnWoh3 {
-  background: linear-gradient(45deg, #000000, #073b4c);
-}
-@media (min-width: 992px) {
-  .cid-rlP0FnWoh3 .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rlP0FnWoh3 .mbr-figure {
-    padding-top: 3rem;
-  }
 }
 .cid-rlUJcXTidK {
   padding-top: 30px;
