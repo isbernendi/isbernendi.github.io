@@ -38,7 +38,7 @@
 	.top-bar { top:-85px;}
 	.top-bar-section ul { margin-top:20px;}
 	.top-bar.expanded .title-area { background:none;}
-	.top-bar.expanded .toggle-topbar a { color:#34b1c4;}
+	.top-bar.expanded .toggle-topbar a { color:#111;}
 	.top-bar.expanded .toggle-topbar a span::after {
     box-shadow: 0 0 0 1px #34b1c4, 0 7px 0 1px #34b1c4, 0 14px 0 1px #34b1c4;
 }

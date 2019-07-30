@@ -102,7 +102,7 @@ h3
 	padding:20px;
 	text-align:left;
 	z-index:1;
-	background:rgba(0, 0, 0, 0.6);
+	
 }
 .banner-txt .button { font-family: 'ProximaNovaRegular'; font-size:28px; color:#fff; text-transform:uppercase; margin:15px 0px 0px 0px; padding:10px 40px;}
 
