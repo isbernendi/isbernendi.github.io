@@ -131,6 +131,7 @@ select {
     clear: both; }
   .row.collapse > .column,
   .row.collapse > .columns {
+	  
     padding-left: 0;
     padding-right: 0; }
   .row.collapse .row {
@@ -160,7 +161,8 @@ select {
   padding-left: 0.9375rem;
   padding-right: 0.9375rem;
   width: 100%;
-  float: left; }
+  float: left;
+ }
 
 .column + .column:last-child,
 .columns + .column:last-child, .column +
