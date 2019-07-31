@@ -117,11 +117,11 @@ h3
 .no-pad {}
 .img-box {}
 .img-box img { border-top-left-radius:5px; border-top-right-radius:5px;}
-.txt-box { text-align:center; background:#fff; padding:20px; border-bottom-left-radius:5px; border-bottom-right-radius:5px;}
+.txt-box { text-align:center; background:#fff;  padding:20px; border-bottom-left-radius:5px; border-bottom-right-radius:5px;}
 .txt-box h3 { font-size:24px; color:#454545; margin:0px; font-family: 'ProximaNovaSemibold', Arial, Helvetica, sans-serif; padding:10px 0px 10px 0px; text-transform:none;}
 .txt-box p { margin:0px; font-family: 'ProximaNovaRegular'; font-size:18px; color:#454545; line-height:22px; padding-bottom:20px;}
 .txt-box .button { background:#454545; color:#fff; font-family: 'ProximaNovaRegular'; font-size:20px; border-radius:5px; padding:10px 20px;}
-.txt-box .button:hover { background:#6bbfff;}
+.txt-box .button:hover { background:#1E90FF;}
 
 .newsletter { width:100%; background:#393f43; margin:0px; padding:40px 0px;}
 .newsletter h2 { position:relative; text-align:center;} 
